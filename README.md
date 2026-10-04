@@ -22,3 +22,6 @@ Dataset download path: [Science Data Bank](https://doi.org/10.57760/sciencedb.j0
   publisher={Science Data Bank}
 }
 ```
+
+## IRAir数据集已公布
+Github仓库：https://github.com/TinaLRJ/IRAir-dataset
